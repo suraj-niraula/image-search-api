@@ -1,7 +1,7 @@
 {
   "name": "image-search",
   "version": "0.1.0",
-  "homepage": "https://suraj-niraula.github.io/image-search-api.github.io",
+  "homepage": "suraj-niraula.github.io/image-search-api.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
